@@ -139,7 +139,6 @@ public class Main {
 		}
 
 		JOptionPane.showMessageDialog(frame, "LISTAGEM DE VINHOS:\n\n" + aux);
-		main()
 
 	}
 
